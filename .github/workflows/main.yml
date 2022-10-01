@@ -55,4 +55,4 @@ jobs:
         with:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: "csat-exercise-c0826018" #Must be unique in Heroku
-          heroku_email: "rameshputtepu5@gmail.com" 
+          heroku_email: "jaypatel2799.jp@gmail.com" 
